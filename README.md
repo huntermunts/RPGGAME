@@ -6,7 +6,7 @@ Hunter and Elias' game project
 Top-down bullet-hell RPG with combos, magic, weapons, relics, unique characters and monsters. Based in rural Laplacia there are forests, plains, mountains, lakes, towns and caves to explore. A pharma company is fighting a pandemic that is sweeping the nation and figured out how to supersize microorganisms and are weaponizing them against undesireables who have contracted the disease. The company can easily supersize single-celled organisms without mutations and are small and agile but complex microorganisms need more research to reduce the side effects of supersizing like a 25% chance of rabies. 
 
 ### Dependencies
-
+* [Git](https://git-scm.com/download/win) (Optional if using github desktop)
 * [Github Desktop](https://desktop.github.com/)
 * [Unreal Engine 5](https://www.unrealengine.com/en-US/unreal-engine-5)
 * Windows 10 or 11
