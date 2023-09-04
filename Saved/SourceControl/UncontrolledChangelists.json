@@ -1,0 +1,21 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/hunter/OneDrive/Papers/Projects/RPGGame/Content/Playground.umap",
+				"C:/Users/hunter/OneDrive/Papers/Projects/RPGGame/Content/Sprites/DemoTileset_TileSet.uasset",
+				"C:/Users/hunter/OneDrive/Papers/Projects/RPGGame/Content/Sprites/1.uasset",
+				"C:/Users/hunter/OneDrive/Papers/Projects/RPGGame/Content/Sprites/DemoTileset.uasset",
+				"C:/Users/hunter/OneDrive/Papers/Projects/RPGGame/Content/Sprites/Demo_Sprite.uasset",
+				"C:/Users/hunter/OneDrive/Papers/Projects/RPGGame/Content/Sprites/Demo.uasset",
+				"C:/Users/hunter/OneDrive/Papers/Projects/RPGGame/Content/White.uasset",
+				"C:/Users/hunter/OneDrive/Papers/Projects/RPGGame/Content/Sprites/Map/DemoTileset_TileSet.uasset",
+				"C:/Users/hunter/OneDrive/Papers/Projects/RPGGame/Content/Sprites/main_character_sprites.uasset",
+				"C:/Users/hunter/OneDrive/Papers/Projects/RPGGame/Content/Sprites/Map/DemoTileset.uasset"
+			]
+		}
+	]
+}
