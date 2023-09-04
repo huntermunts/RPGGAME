@@ -15,6 +15,7 @@ Top-down bullet-hell RPG with combos, magic, weapons, relics, unique characters 
 
 ### Installing
 ``` WARNING!!! Install github desktop and all dependencies first!```
+
 How/where to download:
 * Create a folder in your documents called Projects and inside it a folder called ```RPGGAME```. 
 * The folder structure should look like ```~\Documents\Projects\RPGGAME\```
@@ -22,7 +23,7 @@ How/where to download:
 * ```WARNING!!! Make sure ~\Documents\Projects\RPGGAME\ is empty and has no files before cloning the git repository```
 * In github desktop select clone repository from internet and use the below source
 * ```https://github.com/huntermunts/RPGGAME.git```
-* Choose ```~\Documents\Projects\RPGGAME\``` as the clone location.
+* Choose ```~\Documents\Projects\``` as the clone location and github desktop should create files in the RPGGAME folder.
 
 ### Executing program
 

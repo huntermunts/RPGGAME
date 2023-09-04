@@ -1504,3 +1504,9 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.09.04-00.38.22:012][733]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
 [2023.09.04-00.38.22:012][733]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
 [2023.09.04-00.38.22:057][735]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2023.09.04-00.43.56:539][195]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2023.09.04-00.43.56:541][195]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Playground" FILE="C:/Users/hunter/OneDrive/Papers/Projects/RPGGame/Saved/Autosaves/Game/Playground_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2023.09.04-00.43.56:545][195]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Playground_Auto1
+[2023.09.04-00.43.56:546][195]LogSavePackage: Moving 'C:/Users/hunter/OneDrive/Papers/Projects/RPGGame/Saved/Playground_Auto1E974B23545815D2B3CA8D38FB6859232.tmp' to 'C:/Users/hunter/OneDrive/Papers/Projects/RPGGame/Saved/Autosaves/Game/Playground_Auto1.umap'
+[2023.09.04-00.43.56:555][195]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Playground' took 0.025
+[2023.09.04-00.43.56:555][195]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.025
