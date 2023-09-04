@@ -27,6 +27,8 @@ How/where to download:
 
 ### Executing program
 
+To start the project find and open ```RPGGAME.uproject``` in ```~\Documents\Projects\RPGGAME\```
+
 #### Option 1: Unreal 5 Player
 
 #### Option 2: Compile in Unreal 5 and run executable from Explorer
